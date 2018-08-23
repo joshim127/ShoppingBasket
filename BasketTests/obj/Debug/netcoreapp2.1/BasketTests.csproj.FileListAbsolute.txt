@@ -1,0 +1,13 @@
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\BasketTests.deps.json
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\BasketTests.runtimeconfig.json
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\BasketTests.runtimeconfig.dev.json
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\BasketTests.dll
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\bin\Debug\netcoreapp2.1\BasketTests.pdb
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\obj\Debug\netcoreapp2.1\BasketTests.csproj.CoreCompileInputs.cache
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\obj\Debug\netcoreapp2.1\BasketTests.AssemblyInfoInputs.cache
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\obj\Debug\netcoreapp2.1\BasketTests.AssemblyInfo.cs
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\obj\Debug\netcoreapp2.1\BasketTests.dll
+C:\Users\Joshim\source\repos\ShoppingBasket\BasketTests\obj\Debug\netcoreapp2.1\BasketTests.pdb
