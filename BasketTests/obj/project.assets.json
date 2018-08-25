@@ -5695,9 +5695,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joshim\\source\\repos\\ShoppingBasket\\BasketTests\\BasketTests.csproj",
-      "projectName": "BasketTests",
-      "projectPath": "C:\\Users\\Joshim\\source\\repos\\ShoppingBasket\\BasketTests\\BasketTests.csproj",
+      "projectUniqueName": "C:\\Users\\Joshim\\source\\repos\\ShoppingBasket\\BasketTests\\ShoppingBasketTests.csproj",
+      "projectName": "ShoppingBasketTests",
+      "projectPath": "C:\\Users\\Joshim\\source\\repos\\ShoppingBasket\\BasketTests\\ShoppingBasketTests.csproj",
       "packagesPath": "C:\\Users\\Joshim\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Joshim\\source\\repos\\ShoppingBasket\\BasketTests\\obj\\",
       "projectStyle": "PackageReference",
