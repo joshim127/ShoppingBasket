@@ -13,7 +13,8 @@
           "MSTest.TestAdapter": "1.2.1",
           "MSTest.TestFramework": "1.2.1",
           "Microsoft.NET.Test.Sdk": "15.7.0",
-          "Moq": "4.9.0"
+          "Moq": "4.9.0",
+          "ShoppingBasket": "1.0.0"
         },
         "runtime": {
           "ShoppingBasketTests.dll": {}
@@ -1104,6 +1105,11 @@
             "fileVersion": "1.0.24212.1"
           }
         }
+      },
+      "ShoppingBasket/1.0.0": {
+        "runtime": {
+          "ShoppingBasket.dll": {}
+        }
       }
     }
   },
@@ -1658,6 +1664,11 @@
       "sha512": "sha512-Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    },
+    "ShoppingBasket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
