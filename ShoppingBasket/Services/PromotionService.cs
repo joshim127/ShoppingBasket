@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using ShoppingBasket.Interfaces;
 
@@ -43,6 +44,14 @@ namespace ShoppingBasket.Services
             return basket.Total;
         }
 
+        //Returns true always for the sake of simplicity.
+        public bool AreThereAnyValidPromotions(DateTime today)
+        {
+            return true;
+        }
+
+        //These checks would generally be a call to some form of repository along with a date to check what discounts
+        //exist and if they are valid according to the date passed in. I've left it as methods for the sake of simplicity, without using dates.
         private static bool ShouldMilkDiscountApply(List<Product> products)
         {
             bool shouldApplyDiscount = products.Exists(x => x.Description == "Milk" && x.Quantity > 2);

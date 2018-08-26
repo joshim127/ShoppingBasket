@@ -7,6 +7,7 @@ namespace ShoppingBasket.Interfaces
     public interface IPromotionService
     {
         int CalculateTotal(Basket basket);
+        bool AreThereAnyValidPromotions(DateTime today);
     }
 
 }

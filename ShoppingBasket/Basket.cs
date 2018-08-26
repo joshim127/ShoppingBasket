@@ -1,4 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using ShoppingBasket.Interfaces;
 using ShoppingBasket.Services;
 
 namespace ShoppingBasket
@@ -18,7 +21,9 @@ namespace ShoppingBasket
 
         public int CalculateTotal(Basket basket)
         {
-            return _promotionService.CalculateTotal(basket);
+            var total = _promotionService.AreThereAnyValidPromotions(DateTime.Today) ? _promotionService.CalculateTotal(basket) : basket.Items.Sum(x => x.Price * x.Quantity);
+
+            return total;
         }
     }
 }
